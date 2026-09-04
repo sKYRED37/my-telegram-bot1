@@ -31,7 +31,7 @@ from aiogram.types import (
 # Токен берётся из переменной окружения BOT_TOKEN, либо из значения по умолчанию ниже.
 API_TOKEN = os.getenv("BOT_TOKEN", "8679358583:AAFd4Heg2JrmruiOx9bqqptFBZHJB_j7O2Y")
 # ─── Твой Telegram ID (можно узнать у @userinfobot) ───
-ADMIN_ID  = int(os.getenv("ADMIN_ID", "1766395031"))
+ADMIN_ID  = int(os.getenv("ADMIN_ID", "1766395031" "5728174980" ))
 DB_PATH   = os.getenv("DB_PATH", "standoff_bot.db")
 START_BALANCE = 20_000
 # Ставка на MVP всегда выплачивается с фиксированным множителем x2,
