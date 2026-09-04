@@ -32,7 +32,7 @@ from aiogram.types import (
 API_TOKEN = os.getenv("BOT_TOKEN", "8679358583:AAFd4Heg2JrmruiOx9bqqptFBZHJB_j7O2Y")
 # ─── Твой Telegram ID (можно узнать у @userinfobot) ───
 # --- Список Telegram ID администраторов ---
-ADMINS = [1766395031, 5728174980]
+ADMINS = [1766395031,5728174980]
 DB_PATH   = os.getenv("DB_PATH", "standoff_bot.db")
 START_BALANCE = 20_000
 # Ставка на MVP всегда выплачивается с фиксированным множителем x2,
