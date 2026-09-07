@@ -29,7 +29,7 @@ from aiogram.types import (
 #  КОНФИГУРАЦИЯ
 # ─────────────────────────────────────────────
 # Токен берётся из переменной окружения BOT_TOKEN, либо из значения по умолчанию ниже.
-API_TOKEN = os.getenv("BOT_TOKEN", "8679358583:AAFd4Heg2JrmruiOx9bqqptFBZHJB_j7O2Y")
+API_TOKEN = os.getenv("BOT_TOKEN", "8855309108:AAEI85-toaXwPtH8RSoE1GRKoh-gIn5ZVic")
 # ─── Твой Telegram ID (можно узнать у @userinfobot) ───
 ADMIN_ID  = int(os.getenv("ADMIN_ID", "1766395031"))
 DB_PATH   = os.getenv("DB_PATH", "standoff_bot.db")
