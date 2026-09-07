@@ -67,12 +67,12 @@ BOT_USERNAME: str = ""
 # просто показывает карточку с условиями и кнопку «написать» этому юзеру).
 # ⚠️ Цены — заглушки, поменяй на реальные перед запуском.
 SUBSCRIPTION_SELLER = "TexPredictSkyRed_bot"
-VIP_PRICE_RUB       = 199
-VIP_PRICE_COINS     = 50_000
+VIP_PRICE_RUB       = 50
+VIP_PRICE_COINS     = 100G
 VIP_MULTIPLIER      = 1.25
 VIP_BONUS_COINS     = 10_000
-PREMIUM_PRICE_RUB   = 349
-PREMIUM_PRICE_COINS = 90_000
+PREMIUM_PRICE_RUB   = 75
+PREMIUM_PRICE_COINS = 150G
 PREMIUM_MULTIPLIER  = 1.5
 PREMIUM_BONUS_COINS = 20_000
 
